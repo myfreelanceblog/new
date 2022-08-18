@@ -1,0 +1,31 @@
+<svg width="270" height="270" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="272" width="272" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="1" height="400" width="300"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <defs>
+   <path id="svg_5" d="m23.51,51.523a0.5,0.5 0 0 1 -0.5,0.477c-0.29,0 -0.51,-0.21 -0.52,-0.477c-0.145,-3.168 -1.756,-5.217 -4.832,-6.147c-10.128,-2.408 -17.658,-11.513 -17.658,-22.376c0,-12.703 10.297,-23 23,-23s23,10.297 23,23c0,10.863 -7.53,19.968 -17.658,22.376c-3.076,0.93 -4.687,2.98 -4.83,6.147l-0.002,0z" fill="#f33"/>
+   <filter id="svg_6" filterUnits="objectBoundingBox" height="138.5%" width="143.5%" y="-15.4%" x="-21.7%">
+    <feGaussianBlur stdDeviation="3"/>
+   </filter>
+  </defs>
+  <g id="svg_14">
+   <g transform="matrix(3.844675134118362,0,0,3.844675134118362,0,0) " id="svg_8" fill-rule="evenodd" fill="none">
+    <g id="svg_9" fill="currentColor" fill-rule="nonzero">
+     <use id="svg_10" x="11.333199" y="4.393802" xlink:href="#svg_5" filter="url(#svg_6)"/>
+     <use id="svg_11" x="11.333199" y="4.393802" xlink:href="#svg_5"/>
+    </g>
+    <path id="svg_12" fill-rule="nonzero" fill="#fff" d="m34.333199,67.393802c-2.21,0 -4,-1.79 -4,-4s1.79,-4 4,-4s4,1.79 4,4s-1.79,4 -4,4z"/>
+    <path id="svg_13" fill="#f33" d="m34.333199,65.393802a2,2 0 1 0 0.001,-3.999a2,2 0 0 0 -0.001,3.999z"/>
+   </g>
+  </g>
+  <ellipse ry="13.5" rx="13.5" id="svg_15" cy="109" cx="131.999992" stroke-width="0" stroke="#000" fill="#fff"/>
+ </g>
+</svg>
